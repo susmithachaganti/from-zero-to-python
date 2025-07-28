@@ -39,5 +39,5 @@ Don’t rush. Focus on understanding patterns and practice regularly. Consistenc
 
 ---
 🏁 Let’s Go!
-“A little progress every day adds up to big results.”
+**“A little progress every day adds up to big results.”**
 **Let’s start from zero ➡️ hero with Python! 💪🐍**
