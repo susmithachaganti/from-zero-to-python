@@ -19,7 +19,7 @@ This journey is designed to boost your problem-solving skills, sharpen your Pyth
 
 | S.No | Problem Title | Level | Status | Code Link |
 |------|---------------|--------|--------|-----------|
-| 1-30 | *Beginner Problems*| 🟢 Beginner |⬜ Not Started  | - |
+| 1-30 | *Beginner Problems*| 🟢 Beginner |Started  | - |
 | 31–70 | *Intermediate Problems* | 🟡 Intermediate | ⬜ Not Started | - |
 | 71–100 | *Advanced Problems* | 🔴 Advanced | ⬜ Not Started | - |
 
