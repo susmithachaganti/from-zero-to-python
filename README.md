@@ -17,10 +17,9 @@ This journey is designed to boost your problem-solving skills, sharpen your Pyth
 ### 🗂️ Problem Progress Board
 
 
-| S.No | Problem Title | Level | Status | Code Link |
+| S.No | Problem Title | Level | Status |
 |------|---------------|--------|--------|-----------|
-| 1-30 | *Beginner Problems*| 🟢 Beginner Completed✅  | https://github.com/susmithachaganti/from-zero-to-python/blob/main/Beginner_Level_.ipynb
-                                                        https://github.com/susmithachaganti/from-zero-to-python/blob/main/Beginner_Level_.ipynb|
+| 1-30 | *Beginner Problems*| 🟢 Beginner Completed✅ |
 | 31–70 | *Intermediate Problems* | 🟡 Intermediate | ⬜ Not Started | - |
 | 71–100 | *Advanced Problems* | 🔴 Advanced | ⬜ Not Started | - |
 
