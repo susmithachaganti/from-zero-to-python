@@ -14,14 +14,14 @@ This journey is designed to boost your problem-solving skills, sharpen your Pyth
 
 ---
 
-### 🗂️ Problem Progress Board
+### 🗂️ Problem Progress Board  
 
+| S.No   | Problem Title          | Level           | Status            | Progress |
+|--------|------------------------|-----------------|-------------------|----------|
+| 1 – 30 | *Beginner Problems*    | 🟢 Beginner     | ✅ Completed       | ![30/30] |
+| 31 – 70| *Intermediate Problems*| 🟡 Intermediate | ⬜ Not Started     | ![0/40]  |
+| 71 –100| *Advanced Problems*    | 🔴 Advanced     | ⬜ Not Started     | ![0/30]  |
 
-| S.No | Problem Title | Level | Status |
-|------|---------------|--------|--------|-----------|
-| 1-30 | *Beginner Problems*| 🟢 Beginner Completed✅ |
-| 31–70 | *Intermediate Problems* | 🟡 Intermediate | ⬜ Not Started | - |
-| 71–100 | *Advanced Problems* | 🔴 Advanced | ⬜ Not Started | - |
 
 
 
